@@ -1,0 +1,14 @@
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\bin\Debug\netcoreapp3.1\01-primeiroprojeto.exe
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\bin\Debug\netcoreapp3.1\01-primeiroprojeto.deps.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\bin\Debug\netcoreapp3.1\01-primeiroprojeto.runtimeconfig.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\bin\Debug\netcoreapp3.1\01-primeiroprojeto.runtimeconfig.dev.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\bin\Debug\netcoreapp3.1\01-primeiroprojeto.dll
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\bin\Debug\netcoreapp3.1\01-primeiroprojeto.pdb
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.csproj.AssemblyReference.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.AssemblyInfoInputs.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.AssemblyInfo.cs
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.csproj.CoreCompileInputs.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.dll
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.pdb
+C:\Users\Andreza\Desktop\Aprendendo CSharp\01-primeiroprojeto\obj\Debug\netcoreapp3.1\01-primeiroprojeto.genruntimeconfig.cache

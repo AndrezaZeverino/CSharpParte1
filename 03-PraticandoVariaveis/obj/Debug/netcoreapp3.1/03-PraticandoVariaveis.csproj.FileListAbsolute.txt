@@ -1,0 +1,14 @@
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.AssemblyInfo.cs
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\bin\Debug\netcoreapp3.1\03-PraticandoVariaveis.exe
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\bin\Debug\netcoreapp3.1\03-PraticandoVariaveis.deps.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\bin\Debug\netcoreapp3.1\03-PraticandoVariaveis.runtimeconfig.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\bin\Debug\netcoreapp3.1\03-PraticandoVariaveis.runtimeconfig.dev.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\bin\Debug\netcoreapp3.1\03-PraticandoVariaveis.dll
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\bin\Debug\netcoreapp3.1\03-PraticandoVariaveis.pdb
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.dll
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.pdb
+C:\Users\Andreza\Desktop\Aprendendo CSharp\03-PraticandoVariaveis\obj\Debug\netcoreapp3.1\03-PraticandoVariaveis.genruntimeconfig.cache
