@@ -1,0 +1,13 @@
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\netcoreapp3.1\P13-ForEncadeado.exe
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\netcoreapp3.1\P13-ForEncadeado.deps.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\netcoreapp3.1\P13-ForEncadeado.runtimeconfig.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\netcoreapp3.1\P13-ForEncadeado.runtimeconfig.dev.json
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\netcoreapp3.1\P13-ForEncadeado.dll
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\bin\Debug\netcoreapp3.1\P13-ForEncadeado.pdb
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.AssemblyInfo.cs
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.dll
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.pdb
+C:\Users\Andreza\Desktop\Aprendendo CSharp\P13-ForEncadeado\obj\Debug\netcoreapp3.1\P13-ForEncadeado.genruntimeconfig.cache
